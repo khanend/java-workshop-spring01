@@ -8,6 +8,7 @@ public class UsersResponse {
         this.id = id;
         this.name = name;
     }
+
     // POJO (Plain Old Java Object)
     //Getter/Setter
 
