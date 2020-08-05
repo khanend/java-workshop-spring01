@@ -2,5 +2,7 @@
 
   * gradlew boot
   * gradlew clean boot
-  * gradlew -jar buil\libs\demo-0.0.1-... =-->type tap<----
+  * gradlew -jar build\libs\demo-0.0.1-... =-->type tap<----
   
+  
+  step-01 userResponse 
