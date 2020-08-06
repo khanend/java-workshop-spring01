@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class NewUserRequest {
     private String name;
-    private  int age;
+    private int age;
 
     public String getName() {
         return name;
